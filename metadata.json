@@ -1,0 +1,6 @@
+{
+  "name": "Charu Wellness",
+  "description": "Private breathwork and nervous system healing for feminine well-being, luxury coaching, and transformative deep inner peace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
