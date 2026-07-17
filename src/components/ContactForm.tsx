@@ -209,7 +209,7 @@ export default function ContactForm() {
                   WHATSAPP
                 </p>
                 <p className="text-sm font-semibold text-luxury-charcoal mt-1">
-                  +1 123 455 7890
+                  +1 (765) 637-1985
                 </p>
                 <p className="text-[10px] text-luxury-charcoal/40 uppercase tracking-widest mt-0.5">
                   Direct Contact
@@ -220,7 +220,7 @@ export default function ContactForm() {
             {/* Card 2: EMAIL */}
             <a
               id="email-contact-card"
-              href="mailto:luxurywellness@gmail.com"
+              href="mailto:charudevgun@gmail.com"
               className="flex items-center space-x-4 bg-luxury-white border border-luxury-gold-light/30 p-6 shadow-md hover:shadow-xl hover:border-luxury-gold transition-all duration-500 group"
             >
               <div className="w-12 h-12 rounded-full border border-luxury-gold/30 flex items-center justify-center text-luxury-gold bg-luxury-bg group-hover:bg-luxury-gold group-hover:text-luxury-white transition-all duration-500">
@@ -231,7 +231,7 @@ export default function ContactForm() {
                   EMAIL
                 </p>
                 <p className="text-sm font-semibold text-luxury-charcoal mt-1 lowercase">
-                  luxurywellness@gmail.com
+                  charudevgun@gmail.com
                 </p>
                 <p className="text-[10px] text-luxury-charcoal/40 uppercase tracking-widest mt-0.5">
                   Direct Contact
